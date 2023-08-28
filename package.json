@@ -1,0 +1,21 @@
+{
+  "name": "lodash-library",
+  "version": "1.0.0",
+  "description": "crete lodash library",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/md-mehedi-hasan-nabil/lodash-library.git"
+  },
+  "keywords": [
+    "lodash array"
+  ],
+  "author": "Md. Mehedi Hasan Nabil",
+  "license": "ISC"
+}
